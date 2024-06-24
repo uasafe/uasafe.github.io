@@ -1,0 +1,170 @@
+ .u-section-1 {
+  background-image: linear-gradient(#c0c0c0, #e5e5e5);
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 420px;
+}
+
+.u-section-1 .u-image-1 {
+  height: 329px;
+  margin-top: 20px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 2.25rem;
+  margin: -21px auto 49px;
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 360px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 287px;
+    width: 540px;
+    margin-top: 23px;
+    margin-right: auto;
+    margin-left: -14px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+    width: auto;
+    margin: -36px -149px 50px 59px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 256px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 181px;
+    margin-top: 0;
+    width: 340px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.125rem;
+    margin: 0 13px 39px;
+  }
+} .u-section-2 {
+  background-image: none;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 338px;
+}
+
+.u-section-2 .u-btn-1 {
+  background-image: linear-gradient(to right, #2799b1, #b3b3b3);
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 1.125rem;
+  letter-spacing: 0px;
+  --radius: 15px;
+  margin: 20px 333px 0 auto;
+  padding: 15px 174px 15px 173px;
+}
+
+.u-section-2 .u-btn-2 {
+  background-image: linear-gradient(to right, #2799b1, #b3b3b3);
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 1.125rem;
+  letter-spacing: 0px;
+  --radius: 15px;
+  margin: 31px 332px 0 auto;
+  padding: 15px 169px 15px 168px;
+}
+
+.u-section-2 .u-btn-3 {
+  background-image: linear-gradient(to right, #2799b1, #b3b3b3);
+  border-style: solid;
+  text-transform: uppercase;
+  font-size: 1.125rem;
+  letter-spacing: 0px;
+  --radius: 15px;
+  font-weight: 700;
+  margin: 31px 333px 60px auto;
+  padding: 15px 157px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-btn-1 {
+    margin-right: auto;
+  }
+
+  .u-section-2 .u-btn-2 {
+    margin-right: auto;
+  }
+
+  .u-section-2 .u-btn-3 {
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 379px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-bottom: 60px;
+    margin-left: 0;
+    padding-left: 118px;
+    padding-right: 118px;
+  }
+
+  .u-section-2 .u-btn-2 {
+    margin-left: 0;
+    padding-right: 113px;
+    padding-left: 112px;
+  }
+
+  .u-section-2 .u-btn-3 {
+    margin-left: 0;
+    padding-right: 103px;
+    padding-left: 101px;
+  }
+} .u-section-3 {
+  background-image: url("images/bankid.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 561px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 463px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 355px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 266px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 241px;
+  }
+}.u-section-4 .u-sheet-1 {
+  min-height: 63px;
+}
